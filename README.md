@@ -1,8 +1,8 @@
-Titanic Dataset EDA
+## Titanic Dataset EDA
 This is an Exploratory Data Analysis (EDA) project built using Python.
 The notebook explores the Titanic dataset to uncover insights about passengers, survival rates, and relationships between features — presented with clear visualizations and step‑by‑step explanations.
 
-🚀 Features
+## 🚀 Features
 Cleaned and explored the Titanic dataset
 
 Visualized distributions and relationships using Matplotlib, Seaborn, and Plotly
@@ -13,7 +13,7 @@ Added recruiter‑friendly observations for each visualization
 
 Notebook structured with Markdown explanations for clarity
 
-📁 Project Structure
+## 📁 Project Structure
 Code
 titanic-eda/
 │
@@ -33,7 +33,7 @@ Open the notebook
 
 bash
 jupyter notebook Titanic_EDA.ipynb
-🧩 Technologies Used
+## 🧩 Technologies Used
 Python 3.9+
 
 Pandas / NumPy
@@ -42,7 +42,7 @@ Matplotlib / Seaborn / Plotly
 
 Jupyter Notebook
 
-📊 Analysis Overview
+## 📊 Analysis Overview
 The notebook covers:
 
 Passenger demographics (age, gender, class)
