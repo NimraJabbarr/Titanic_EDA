@@ -37,6 +37,9 @@ To run the EDA scripts, follow these steps:
 1. Clone the repository: `git clone https://github.com/NimraJabbarr/Titanic_EDA.git`
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Execute the main script: `python main.py`
+## Future goals
+Build predictive models (Logistic Regression, Random Forest, XGBoost) to estimate survival probabilities.
+Enhance feature engineering by creating new variables (e.g., family size, titles from names) to improve model accuracy.
 
-## License
-This repository is licensed under the MIT License.
+
+This notebook is intended for educational and portfolio purposes. Please do not reuse without proper attribution.
